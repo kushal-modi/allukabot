@@ -15,6 +15,9 @@ Modular HunterxHunter themed Telegram Bot for managing your group with additiona
 
 ### Configuration
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kushal-modi/allukabot)
+
+
 Rename `sample_config.yml` to `config.yml` 
 
 `alluka_explain_config: "hunter_____X_____hunter"` replace this line `hunter_____X_____hunter` with this `alluka_zoldyck`
